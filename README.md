@@ -1,21 +1,5 @@
 # 🛒 eMart – Modern E-Commerce Web Application
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Dependencies](#dependencies)
-- [Installation & Setup](#installation--setup)
-- [Project Structure](#project-structure)
-- [Core Functionality](#core-functionality)
-- [Available Scripts](#available-scripts)
-- [File Descriptions](#file-descriptions)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 📝 Project Overview
 
 **eMart** is a modern, fully responsive e-commerce web application built with **React** and **Redux**. This project demonstrates professional-grade frontend development practices including component-based architecture, centralized state management, client-side routing, and responsive design patterns.
